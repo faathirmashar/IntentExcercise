@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentExcercise</string>
+    <string name="nama_depan">Nama Depan</string>
+    <string name="nama_tengah">Nama Tengah</string>
+    <string name="nama_belakang">Nama Belakang</string>
+    <string name="submit">Submit</string>
+
+    <string name="name_description">Nama depan anda adalah %1$s, nama tengah anda adalah %2$s dan nama belakang anda adalah %3$s. Sedangkan nama lengkap anda adalah %4$s</string>
+</resources>
